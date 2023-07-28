@@ -1,0 +1,17 @@
+[33mcommit a66b0073e22eee159abf1ab08518707ca4f122cb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pratham <prathamkumar7050@gmail.com>
+Date:   Sat Jul 15 11:05:11 2023 +0530
+
+    setup static files accessfor layout and pages
+
+[33mcommit cbdb07ddd41f4ff0f2af881bb6ef4b4519d117fb[m
+Author: Pratham <prathamkumar7050@gmail.com>
+Date:   Fri Jul 14 19:00:48 2023 +0530
+
+    add a controller and a router for home
+
+[33mcommit 53e5aa108ea6430cea4e200200e9525af66c5191[m
+Author: Pratham <prathamkumar7050@gmail.com>
+Date:   Fri Jul 14 15:47:19 2023 +0530
+
+     basic of major project
